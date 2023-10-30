@@ -1,10 +1,10 @@
 public class Verdura {
 
     //Atributos
-    private String id;
+    private int id;
     private String nombre;
     private String color;
-    private String calorias;
+    private double calorias;
     private String debeCocinarse;
 
 
@@ -16,7 +16,7 @@ public class Verdura {
 
 
     //Constructor con atributos
-    public Verdura(String id, String nombre, String color, String calorias, String debeCocinarse) {
+    public Verdura(int id, String nombre, String color, double calorias, String debeCocinarse) {
         this.id = id;
         this.nombre = nombre;
         this.color = color;
@@ -27,11 +27,11 @@ public class Verdura {
     //Getters y Setters
 
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -51,11 +51,11 @@ public class Verdura {
         this.color = color;
     }
 
-    public String getCalorias() {
+    public double getCalorias() {
         return calorias;
     }
 
-    public void setCalorias(String calorias) {
+    public void setCalorias(double calorias) {
         this.calorias = calorias;
     }
 
