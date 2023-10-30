@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee97e45-6550-40d6-aaf4-9bb177445c3e" name="Changes" comment="" />
+    <list default="true" id="bee97e45-6550-40d6-aaf4-9bb177445c3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verdura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verdura.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +40,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/paco/Escritorio/Curso-bootcamp_softtek/Java_basico/RepasoPOOVerdura",
     "vue.rearranger.settings.migration": "true"
+=======
+    "git-widget-placeholder": "pedro",
+    "last_opened_file_path": "C:/Users/pedro/Desktop/hackaboss/Projects/Clase3TrabajoGrupal/RepasoPOOVerdura"
+>>>>>>> 09d9b1ad76983644ed3e148424af3e897a159aab
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
